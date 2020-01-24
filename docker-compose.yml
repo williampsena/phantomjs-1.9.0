@@ -1,0 +1,5 @@
+version: "3.7"
+services:
+ phantomjs:
+  build: .
+  container_name: phantomjs
